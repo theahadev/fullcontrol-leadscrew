@@ -3,6 +3,8 @@ A leadscrew generator written in python using fullcontrol.xyz
 
 Its something that i made about a year ago, found it again today and decided to publish the code.
 
+[An example gcode](https://github.com/theahadev/fullcontrol-leadscrew/blob/main/README.md)
+
 I don't know if it will run on local, works on Google Collab.
 There's a lot of leftover code and random stuff that i don't remember what's it for, most of them are test codes.
 
